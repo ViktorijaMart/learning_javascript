@@ -1,0 +1,22 @@
+button {
+  padding: 8px 16px;
+  margin-top: 24px;
+  font-size: 16px;
+}
+
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+}
+
+table {
+  margin-top: 48px;
+}
+
+th,
+td {
+  height: 32px;
+  width: 160px;
+}

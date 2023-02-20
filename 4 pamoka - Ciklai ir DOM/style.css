@@ -1,0 +1,11 @@
+.redtext > span {
+  color: red;
+}
+
+.bluetext > span {
+  color: blue;
+}
+
+.yellowtext > span {
+  color: rgb(255, 196, 0);
+}
